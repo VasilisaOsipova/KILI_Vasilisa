@@ -1,0 +1,1411 @@
+31658;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+31659;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+31660;3;“ак;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+31661;4;у;”;PR;;;у;;;;;;PR;”;PR
+31662;5;нас;ћџ;SPRO pl 1p - gen;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+31663;6;в;¬;PR;;;в;;;;;;PR;¬;PR
+31664;7;√рузии;√–”«»я;S f inan loc sg;;;и;и;з;у;р;г;S;√–”«»я;S f inan loc sg
+31665;8;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+31666;9;по-аджарски;ѕќ-јƒ∆ј–— »;A brev;;;и;к;с;р;а;ж;ADV;ѕќ-јƒ∆ј–— »;ADV -
+31667;10;хачапури;’ј„јѕ”–»;S m inan nom;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+31668;11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31669;12;да;ƒј;PART;;;а;д;;;;;PART;ƒј;PART
+31670;13;?;?;SENT;;;;;;;;;SENT;?;SENT
+31671;;;;;;;;;;;;;;;
+31672;1;«начит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+31673;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31674;3;тесто;“≈—“ќ;S n inan nom sg;;;о;т;с;е;т;;S;“≈—“ќ;S n inan nom sg
+31675;4;берЄтс€;Ѕ–ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;Є;р;е;V;Ѕ–ј“№—я;V ipf praes sg indic - 3p
+31676;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31677;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31678;7;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31679;8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31680;9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31681;10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31682;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31683;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31684;13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31685;14;двестиграмовий;NONLEX;NONLEX;distort;;й;и;в;о;м;а;A;ƒ¬≈—“»√–јћќ¬»…;A - acc sg plen m inan
+31686;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31687;16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31688;17;";";";";SENT;;;;;;;;;SENT;";";SENT
+31689;;;;;;;;;;;;;;;
+31690;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31691;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31692;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31693;4;двестиграммовый;ƒ¬”’—ќ“√–јћћќ¬џ…;A - nom sg plen m inan;distort;;й;ы;в;о;м;м;A;ƒ¬≈—“»√–јћћќ¬џ…;A - acc sg plen m inan
+31694;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31695;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31696;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+31697;;;;;;;;;;;;;;;
+31698;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31699;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31700;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31701;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31702;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31703;;;;;;;;;;;;;;;
+31704;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31705;2;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+31706;3;это;Ё“ќ;APRO nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+31707;4;считаетс€;—„»“ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;т;V;—„»“ј“№—я;V ipf praes sg indic - 3p
+31708;5;большой;ЅќЋ№Ўќ…;A - nom sg plen m -;;;й;о;ш;ь;л;о;A;ЅќЋ№Ўќ…;A - nom sg plen m -
+31709;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31710;7;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+31711;8;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+31712;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31713;10;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31714;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31715;12;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31716;13;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31717;14;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31718;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31719;16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31720;17;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31721;18;стотрицатьграмовий;NONLEX;NONLEX;distort;;й;и;в;о;м;а;A;—“ќ“–»÷ј“№√–јћќ¬»…;A - acc sg plen m inan
+31722;19;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31723;20;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31724;21;";";";";SENT;;;;;;;;;SENT;";";SENT
+31725;;;;;;;;;;;;;;;
+31726;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31727;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31728;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31729;4;статридцатьграммовый;—“ј“–»ƒ÷ј“»√–јћћќ¬џ…;A - nom sg plen m inan;;;й;ы;в;о;м;м;A;—“јќ“–»ƒ÷ј“№√–јћћќ¬џ…;A - acc sg plen m inan
+31730;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31731;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31732;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+31733;;;;;;;;;;;;;;;
+31734;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31735;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31736;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31737;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31738;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31739;;;;;;;;;;;;;;;
+31740;1;Е..;Е..;PUNC;;;;;;;;;PUNC;Е..;PUNC
+31741;2;сто;—“ќ;NUM acc - -;;;о;т;с;;;;NUM;—“ќ;NUM acc - -
+31742;3;тридцать;“–»ƒ÷ј“№;NUM nom - -;;;ь;т;а;ц;д;и;NUM;“–»ƒ÷ј“№;NUM acc - -
+31743;4;грамм;√–јћћ;S m inan nom pl;anom;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31744;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31745;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31746;7;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31747;8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31748;9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31749;10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31750;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31751;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31752;13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31753;14;сир;NONLEX;NONLEX;distort;;р;и;с;;;;S;—»–;S m anim nom sg
+31754;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31755;16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31756;17;";";";";SENT;;;;;;;;;SENT;";";SENT
+31757;;;;;;;;;;;;;;;
+31758;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31759;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31760;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31761;4;сыр;—џ–;S m inan nom sg;;;р;ы;с;;;;S;—џ–;S m inan nom sg
+31762;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31763;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31764;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+31765;;;;;;;;;;;;;;;
+31766;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31767;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31768;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31769;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31770;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31771;;;;;;;;;;;;;;;
+31772;1;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+31773;2;к; ;PR;;;к;;;;;;PR; ;PR
+31774;3;концу; ќЌ≈÷;S m inan dat sg;;;у;ц;н;о;к;;S; ќЌ≈÷;S m inan dat sg
+31775;4;там;“јћ;ADV ;;;м;а;т;;;;PART;“јћ;PART
+31776;5;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+31777;6;€йца;я…÷ќ;S n inan nom  pl;;;а;ц;й;€;;;S;я…÷ќ;S n inan acc pl
+31778;7;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+31779;8;масло;ћј—Ћќ;S n inan nom sg;;;о;л;с;а;м;;S;ћј—Ћќ;S n inan nom sg
+31780;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31781;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31782;11;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31783;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31784;13;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31785;14;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31786;15;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31787;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31788;17;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31789;18;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31790;19;сливочномасло;NONLEX;NONLEX;раздельно;;о;л;с;а;м;о;S;—Ћ»¬ќ„Ќќћј—Ћќ;S n inan acc sg
+31791;20;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31792;21;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31793;22;";";";";SENT;;;;;;;;;SENT;";";SENT
+31794;;;;;;;;;;;;;;;
+31795;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31796;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31797;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31798;4;сливочное;—Ћ»¬ќ„Ќџ…;A - nom sg plen n -;;;е;о;н;ч;о;в;A;—Ћ»¬ќ„Ќџ…;A - nom sg plen n -
+31799;5;масло;ћј—Ћќ;S n inan nom sg;;;о;л;с;а;м;;S;ћј—Ћќ;S n inan nom sg
+31800;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31801;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31802;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+31803;;;;;;;;;;;;;;;
+31804;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31805;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31806;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31807;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31808;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31809;;;;;;;;;;;;;;;
+31810;1;“ак;“ј ;INTJ;;;к;а;т;;;;ADV;“ј ;ADV -
+31811;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31812;3;сыр;—џ–;S m inan nom sg;;;р;ы;с;;;;S;—џ–;S m inan nom sg
+31813;4;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+31814;5;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+31815;6;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+31816;7;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+31817;8;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+31818;9;сулугуни;—”Ћ”√”Ќ»;S m inan nom sg 0;;;и;н;у;г;у;л;S;—”Ћ”√”Ќ»;S m inan nonflex nonflex
+31819;10;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+31820;11;имеретинский;»ћ≈–≈“»Ќ— »…;S m inan nom sg;;;й;и;к;с;н;и;A;»ћ≈–≈“»Ќ— »…;A - acc sg plen m inan
+31821;12;.;.;SENT;;;;;;;;;SENT;.;SENT
+31822;;;;;;;;;;;;;;;
+31823;1;“ам;“јћ;ADV -;;;м;а;т;;;;ADV;“јћ;ADV -
+31824;2;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31825;3;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31826;4;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31827;5;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31828;6;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31829;7;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31830;8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31831;9;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31832;10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31833;11;трети;NONLEX;NONLEX;distort;;и;т;е;р;т;;S;“–≈“№;S f inan gen sg
+31834;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31835;13;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31836;14;";";";";SENT;;;;;;;;;SENT;";";SENT
+31837;;;;;;;;;;;;;;;
+31838;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31839;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31840;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31841;4;третий;“–≈“»…;ANUM - nom sg plen m -;;;й;и;т;е;р;т;A;“–≈“»…;A - nom sg plen m -
+31842;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31843;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31844;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+31845;;;;;;;;;;;;;;;
+31846;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31847;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31848;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31849;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31850;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31851;;;;;;;;;;;;;;;
+31852;1;часть;„ј—“№;S f inan nom sg;;;ь;т;с;а;ч;;S;„ј—“№;S f inan nom sg
+31853;2;имеритинский;»ћ≈–»“»Ќ— »…;S m anim nom sg;;;й;и;к;с;н;и;A;»ћ≈–»“»Ќ— »…;A - acc sg plen m inan
+31854;3;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+31855;4;больше;ћЌќ√ќ;ADV comp;;;е;ш;ь;л;о;б;ADV;ћЌќ√ќ;ADV comp
+31856;5;сулугуни;—”Ћ”√”Ќ»;S m inan nom sg 0;;;и;н;у;г;у;л;S;—”Ћ”√”Ќ»;S m inan nonflex nonflex
+31857;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31858;7;это;Ё“ќ;APRO nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+31859;8;называетс€;Ќј«џ¬ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;в;V;Ќј«џ¬ј“№—я;V ipf praes sg indic - 3p
+31860;9;микс;ћ» —;S m inan nom sg;слитно;;с;к;и;м;;;S;ћ» —;S m inan nom sg
+31861;10;-;-;PUNC;cлитно;;;;;;;;PUNC;-;PUNC
+31862;11;сыр;—џ–;S m inan nom sg;слитно;;р;ы;с;;;;S;—џ–;S m inan nom sg
+31863;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31864;13;да;ƒј;PART;;;а;д;;;;;CONJ;ƒј;CONJ
+31865;14;.;.;SENT;;;;;;;;;SENT;.;SENT
+31866;;;;;;;;;;;;;;;
+31867;1;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+31868;2;как; ј ;ADV -;;;к;а;к;;;;ADV; ј ;ADV -
+31869;3;тесто;“≈—“ќ;S n inan nom sg;;;о;т;с;е;т;;S;“≈—“ќ;S n inan nom sg
+31870;4;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+31871;5;?;?;SENT;;;;;;;;;SENT;?;SENT
+31872;;;;;;;;;;;;;;;
+31873;1;“есто;“≈—“ќ;S n inan nom sg;;;о;т;с;е;т;;S;“≈—“ќ;S n inan nom sg
+31874;2;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+31875;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31876;4;значит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+31877;5;на;Ќј;PR;;;а;н;;;;;PR;Ќј;PR
+31878;6;килограмм; »Ћќ√–јћћ;S m inan acc sg;;;м;м;а;р;г;о;S; »Ћќ√–јћћ;S m inan acc sg
+31879;7;муки;ћ” ј;S f inan gen sg;;;и;к;у;м;;;S;ћ” ј;S f inan gen sg
+31880;8;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+31881;9;дес€ть;ƒ≈—я“№;NUM nom - -;;;ь;т;€;с;е;д;NUM;ƒ≈—я“№;NUM acc - -
+31882;10;грамм;√–јћћ;S m inan nom pl;;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31883;11;дрож;ƒ–ќ∆∆»;S m inan gen sg;anom;;ж;о;р;д;;;S;ƒ–ќ∆;S m inan acc sg
+31884;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31885;13;двадцать;ƒ¬јƒ÷ј“№;NUM nom - -;;;ь;т;а;ц;д;а;NUM;ƒ¬јƒ÷ј“№;NUM acc - -
+31886;14;грамм;√–јћћ;S m inan nom pl;;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31887;15;соли;—ќЋ№;S f inan gen sg;;;и;л;о;с;;;S;—ќЋ№;S f inan gen sg
+31888;16;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+31889;17;идЄт..;»ƒ“»..;V ipf praes sg indic - 3p;;;;;т;Є;д;и;V;»ƒ“»..;V ipf praes sg indic - 3p
+31890;18;э..;NONLEX;NONLEX;;;;;э;;;;S;Ё..;S - - nonflex nonflex
+31891;19;п€тьсот;ѕя“№—ќ“;NUM nom  - -;;;т;о;с;ь;т;€;NUM;ѕя“№—ќ“;NUM acc - -
+31892;20;грамм;√–јћћ;S m inan nom pl;;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31893;21;вода;¬ќƒј;S f inan nom sg;distort;;а;д;о;в;;;S;¬ќƒј;S f inan nom sg
+31894;22;Е..;Е..;PUNC;;;;;;;;;PUNC;Е..;PUNC
+31895;23;п€тьсот;ѕя“№—ќ“;NUM nom - -;;;т;о;с;ь;т;€;NUM;ѕя“№—ќ“;NUM acc - -
+31896;24;грамм;√–јћћ;S m inan nom pl;;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31897;25;молоко;ћќЋќ ќ;S n inan nom sg;distort;;о;к;о;л;о;м;S;ћќЋќ ќ;S n inan acc sg
+31898;26;Е..;Е..;PUNC;;;;;;;;;PUNC;Е..;PUNC
+31899;27;двести;ƒ¬≈—“»;NUM nom - -;;;и;т;с;е;в;д;NUM;ƒ¬≈—“»;NUM acc - -
+31900;28;грамм;√–јћћ;S m inan nom pl;;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31901;29;Ц;Ц;PUNC;;;;;;;;;PUNC;Ц;PUNC
+31902;30;вода;¬ќƒј;S f inan nom sg;;;а;д;о;в;;;S;¬ќƒј;S f inan nom sg
+31903;31;иии;NONLEX;NONLEX;distort;;и;и;и;;;;S;»»»;S m inan gen sg
+31904;32;семьдес€т;—≈ћ№ƒ≈—я“;NUM nom - -;;;т;€;с;е;д;ь;NUM;—≈ћ№ƒ≈—я“;NUM acc - -
+31905;33;грамм;√–јћћ;S m inan nom pl;;;м;м;а;р;г;;S;√–јћћ;S m inan gen pl
+31906;34;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31907;35;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31908;36;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31909;37;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31910;38;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31911;39;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31912;40;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31913;41;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31914;42;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31915;43;сливочнымасла;NONLEX;NONLEX;раздельно;;а;л;с;а;м;ы;S;—Ћ»¬ќ„Ќџћј—Ћќ;S n inan acc pl
+31916;44;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31917;45;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31918;46;";";";";SENT;;;;;;;;;SENT;";";SENT
+31919;;;;;;;;;;;;;;;
+31920;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31921;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31922;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31923;4;сливочного;—Ћ»¬ќ„Ќџ…;A - gen sg plen n -;;;о;г;о;н;ч;о;A;—Ћ»¬ќ„Ќџ…;A - gen sg plen n -
+31924;5;масла;ћј—Ћќ;S n inan gen sg;;;а;л;с;а;м;;S;ћј—Ћќ;S n inan gen sg
+31925;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31926;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31927;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+31928;;;;;;;;;;;;;;;
+31929;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31930;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31931;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31932;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31933;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31934;;;;;;;;;;;;;;;
+31935;1;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+31936;2;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+31937;3;.;.;SENT;;;;;;;;;SENT;.;SENT
+31938;;;;;;;;;;;;;;;
+31939;1;√отовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+31940;2;на;Ќј;PR;;;а;н;;;;;PR;Ќј;PR
+31941;3;килограмм; »Ћќ√–јћћ;S m inan acc sg;;;м;м;а;р;г;о;S; »Ћќ√–јћћ;S m inan acc sg
+31942;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31943;5;килограмм; »Ћќ√–јћћ;S m inan nom pl;;;м;м;а;р;г;о;S; »Ћќ√–јћћ;S m inan gen pl
+31944;6;муки;ћ” ј;S f inan nom sg;;;и;к;у;м;;;S;ћ” ј;S f inan gen sg
+31945;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31946;8;значит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+31947;9;всего;¬≈—№;APRO -  gen m  sg;;;о;г;е;с;в;;S;¬—≈;S n - gen sg
+31948;10;выходит;¬џ’ќƒ»“№;V ipf praes sg indic - 3p;;;т;и;д;о;х;ы;V;¬џ’ќƒ»“№;V ipf praes sg indic - 3p
+31949;11;два;ƒ¬ј;NUM nom m ;;;а;в;д;;;;NUM;ƒ¬ј;NUM acc m inan
+31950;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31951;13;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31952;14;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31953;15;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31954;16;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31955;17;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31956;18;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31957;19;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31958;20;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31959;21;килограм;NONLEX;NONLEX;;;м;а;р;г;о;л;S; »Ћќ√–јћ;S m anim nom sg
+31960;22;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31961;23;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31962;24;";";";";SENT;;;;;;;;;SENT;";";SENT
+31963;;;;;;;;;;;;;;;
+31964;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31965;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31966;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31967;4;килограмма; »Ћќ√–јћћ;S m inan gen sg;;;а;м;м;а;р;г;S; »Ћќ√–јћћ;S m inan gen sg
+31968;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31969;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31970;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+31971;;;;;;;;;;;;;;;
+31972;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+31973;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31974;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31975;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31976;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+31977;;;;;;;;;;;;;;;
+31978;1;теста;“≈—“ќ;S n inan gen sg;;;а;т;с;е;т;;S;“≈—“ќ;S n inan gen sg
+31979;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+31980;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31981;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+31982;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31983;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+31984;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+31985;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+31986;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31987;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31988;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31989;12;сетого;NONLEX;NONLEX;раздельно;;о;г;о;т;е;с;A;—≈“џ…;A - acc sg plen m anim
+31990;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31991;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+31992;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+31993;;;;;;;;;;;;;;;
+31994;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+31995;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+31996;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+31997;4;с;—;PR;;;с;;;;;;S;—;S - - nonflex nonflex
+31998;5;этого;Ё“ќ;APRO gen sg;;;о;г;о;т;э;;S;Ё“ќ;S n - gen sg
+31999;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32000;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32001;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+32002;;;;;;;;;;;;;;;
+32003;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32004;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32005;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32006;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32007;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32008;;;;;;;;;;;;;;;
+32009;1;выходит;¬џ’ќƒ»“№;V ipf praes sg indic - 3p;;;т;и;д;о;х;ы;V;¬џ’ќƒ»“№;V ipf praes sg indic - 3p
+32010;2;дес€ть;ƒ≈—я“№;NUM acc-;;;ь;т;€;с;е;д;NUM;ƒ≈—я“№;NUM acc - -
+32011;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32012;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32013;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32014;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32015;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32016;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32017;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32018;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32019;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32020;12;двестиграмови;NONLEX;NONLEX;distort;;и;в;о;м;а;р;S;ƒ¬≈—“»√–јћќ¬№;S f inan loc sg
+32021;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32022;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32023;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+32024;;;;;;;;;;;;;;;
+32025;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32026;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32027;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32028;4;двестиграммовых;ƒ¬≈—“»√–јћћќ¬џ…;A - acc pl plen - -;;;х;ы;в;о;м;м;A;ƒ¬≈—“»√–јћћќ¬џ…;A - loc pl plen - -
+32029;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32030;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32031;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32032;;;;;;;;;;;;;;;
+32033;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32034;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32035;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32036;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32037;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32038;;;;;;;;;;;;;;;
+32039;1;аджарских;јƒ∆ј–— »…;A - acc pl plen - -;;;х;и;к;с;р;а;A;јƒ∆ј–— »…;A - loc pl plen - -
+32040;2;хачапури;’ј„јѕ”–»;S m inan acc pl;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+32041;3;.;.;SENT;;;;;;;;;SENT;.;SENT
+32042;;;;;;;;;;;;;;;
+32043;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32044;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32045;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32046;4;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+32047;5;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+32048;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32049;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32050;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32051;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32052;10;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+32053;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32054;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32055;13;";";";";SENT;;;;;;;;;SENT;";";SENT
+32056;;;;;;;;;;;;;;;
+32057;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32058;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32059;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+32060;;;;;;;;;;;;;;;
+32061;1;Ќе;Ќ≈;PART;;;е;н;;;;;PART;Ќ≈;PART
+32062;2;знает;«Ќј“№;V ipf praes sg indic - 3p;;;т;е;а;н;з;;V;«Ќј“№;V ipf praes sg indic - 3p
+32063;3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32064;4;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+32065;5;сказать;— ј«ј“№;V pf - - inf - -;;;ь;т;а;з;а;к;V;— ј«ј“№;V pf - - inf - -
+32066;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32067;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32068;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+32069;;;;;;;;;;;;;;;
+32070;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32071;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+32072;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32073;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32074;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32075;;;;;;;;;;;;;;;
+32076;1;√овор€щий2;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32077;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32078;3;ƒавайте;ƒј¬ј“№;V ipf - pl imper - 2p;;;е;т;й;а;в;а;V;ƒј¬ј“№;V ipf - pl imper - 2p
+32079;4;ещЄ;≈ў≈;ADV -;;;Є;щ;е;;;;ADV;≈ў≈;ADV -
+32080;5;какой-нибудь; ј ќ…-Ќ»Ѕ”ƒ№;APRO m acc ;;;ь;д;у;б;и;н;A; ј ќ…-Ќ»Ѕ”ƒ№;A - acc sg plen m inan
+32081;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32082;7;имеритинский;»ћ≈–»“»Ќ— »…;S m inan acc sg;;;й;и;к;с;н;и;S;»ћ≈–»“»Ќ— »…;S m anim nom sg
+32083;8;?;?;SENT;;;;;;;;;SENT;?;SENT
+32084;;;;;;;;;;;;;;;
+32085;1;√овор€щий1;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32086;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32087;3;«начит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+32088;4;мегрельский;ћ≈√–≈Ћ№— »…;S m inan nom sg;;;й;и;к;с;ь;л;A;ћ≈√–≈Ћ№— »…;A - gen sg plen m -
+32089;5;Е;Е;PUNC;;;;;;;;;PUNC;Е;PUNC
+32090;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+32091;;;;;;;;;;;;;;;
+32092;1;√овор€щий2;√ќ¬ќ–яў»…2;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32093;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32094;3;ƒавай;ƒј¬ј“№;V ipf - sg imper - 2p;;;й;а;в;а;д;;V;ƒј¬ј“№;V ipf - sg imper - 2p
+32095;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+32096;;;;;;;;;;;;;;;
+32097;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32098;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32099;3;”;”;PR;;;у;;;;;;PR;”;PR
+32100;4;нас;ћџ;SPRO pl 1p - gen;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+32101;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32102;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32103;7;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32104;8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32105;9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32106;10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32107;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32108;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32109;13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32110;14;парэгионам;NONLEX;NONLEX;раздельно;;м;а;н;о;и;г;S;ѕј–Ё√»ќЌ;S m inan dat pl
+32111;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32112;16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32113;17;";";";";SENT;;;;;;;;;SENT;";";SENT
+32114;;;;;;;;;;;;;;;
+32115;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32116;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32117;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32118;4;по;ѕќ;PR;;;о;п;;;;;PR;ѕќ;PR
+32119;5;регионам;–≈√»ќЌ;S m inan dat pl;;;м;а;н;о;и;г;S;–≈√»ќЌ;S m inan dat pl
+32120;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32121;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32122;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+32123;;;;;;;;;;;;;;;
+32124;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32125;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32126;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32127;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32128;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32129;;;;;;;;;;;;;;;
+32130;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32131;2;да;ƒј;PART;;;а;д;;;;;PART;ƒј;PART
+32132;3;?;?;SENT;;;;;;;;;SENT;?;SENT
+32133;;;;;;;;;;;;;;;
+32134;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32135;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32136;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32137;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32138;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32139;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32140;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32141;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32142;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32143;10;есь;NONLEX;NONLEX;distort;;ь;с;е;;;;S;≈—№;S f inan nonflex nonflex
+32144;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32145;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32146;13;";";";";SENT;;;;;;;;;SENT;";";SENT
+32147;;;;;;;;;;;;;;;
+32148;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32149;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32150;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32151;4;есть;Ѕџ“№;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;Ѕџ“№;V ipf praes sg indic - 3p
+32152;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32153;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32154;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32155;;;;;;;;;;;;;;;
+32156;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32157;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32158;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32159;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32160;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32161;6;западна€;«јѕјƒЌџ…;A - nom sg plen f -;;;€;а;н;д;а;п;A;«јѕјƒЌџ…;A - nom sg plen f -
+32162;7;√рузи€;√–”«»я;S f inan nom sg;;;€;и;з;у;р;г;S;√–”«»я;S f inan nom sg
+32163;8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32164;9;это;Ё“ќ;APRO nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+32165;10;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+32166;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32167;12;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32168;13;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32169;14;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32170;15;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32171;16;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32172;17;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32173;18;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32174;19;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32175;20;есь;NONLEX;NONLEX;distort;;ь;с;е;;;;S;≈—№;S f inan nonflex nonflex
+32176;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32177;22;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32178;23;";";";";SENT;;;;;;;;;SENT;";";SENT
+32179;;;;;;;;;;;;;;;
+32180;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32181;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32182;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32183;4;есть;Ѕџ“№;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;Ѕџ“№;V ipf praes sg indic - 3p
+32184;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32185;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32186;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32187;;;;;;;;;;;;;;;
+32188;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32189;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32190;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32191;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32192;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32193;;;;;;;;;;;;;;;
+32194;1;ћегрели€;ћ≈√–≈Ћ»я;S m inan nom sg;;;€;и;л;е;р;г;S;ћ≈√–≈Ћ»я;S m inan nom sg
+32195;2;Е;Е;PUNC;;;;;;;;;PUNC;Е;PUNC
+32196;3;ааа;NONLEX;NONLEX;;;а;а;а;;;;S;јјј;S m inan nonflex nonflex
+32197;4;..;..;SENT;;;;;;;;;SENT;..;SENT
+32198;;;;;;;;;;;;;;;
+32199;1;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32200;2;мегрельский;ћ≈√–≈Ћ№— »…;A - nom sg plen m -;;;й;и;к;с;ь;л;A;ћ≈√–≈Ћ№— »…;A - nom sg plen f -
+32201;3;хачапури;’ј„јѕ”–»;S m inan nom;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S f inan nonflex nonflex
+32202;4;делаетс€;ƒ≈Ћј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;л;V;ƒ≈Ћј“№—я;V ipf praes sg indic - 3p
+32203;5;в;¬;PR;;;в;;;;;;PR;¬;PR
+32204;6;западной;«јѕјƒЌџ…;A - loc sg plen f -;;;й;о;н;д;а;п;A;«јѕјƒЌџ…;A - loc sg plen f -
+32205;7;√рузии;√–”«»я;S f inan loc sg;;;и;и;з;у;р;г;S;√–”«»я;S f inan loc sg
+32206;8;ћегрели€;ћ≈√–≈Ћ»я;S f inan nom sg;;;€;и;л;е;р;г;S;ћ≈√–≈Ћ»я;S f inan nom sg
+32207;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32208;10;—амегрело;—јћ≈√–≈Ћќ;S 0 nom sg inan ;;;о;л;е;р;г;е;V;—јћ≈√–≈“№;V pf praet sg indic n -
+32209;11;это;Ё“ќ;APRO nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+32210;12;называетс€;Ќј«џ¬ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;в;V;Ќј«џ¬ј“№—я;V ipf praes sg indic - 3p
+32211;13;.;.;SENT;;;;;;;;;SENT;.;SENT
+32212;;;;;;;;;;;;;;;
+32213;1;«начит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+32214;2;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+32215;3;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32216;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32217;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32218;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32219;7;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32220;8;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32221;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32222;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32223;11;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32224;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32225;13;унутри;NONLEX;NONLEX;distort;;и;р;т;у;н;у;ADV;”Ќ”“–»;ADV -
+32226;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32227;15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32228;16;";";";";SENT;;;;;;;;;SENT;";";SENT
+32229;;;;;;;;;;;;;;;
+32230;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32231;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32232;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32233;4;внутри;¬Ќ”“–»;ADV -;;;и;р;т;у;н;в;ADV;¬Ќ”“–»;ADV -
+32234;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32235;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32236;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32237;;;;;;;;;;;;;;;
+32238;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32239;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32240;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32241;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32242;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32243;;;;;;;;;;;;;;;
+32244;1;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+32245;2;сверху;—¬≈–’”;ADV -;;;у;х;р;е;в;с;ADV;—¬≈–’”;ADV -
+32246;3;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+32247;4;двойной;ƒ¬ќ…Ќќ…;A - nom sg plen m -;;;й;о;н;й;о;в;A;ƒ¬ќ…Ќќ…;A - ins sg plen f -
+32248;5;с;—;PR;;;с;;;;;;PR;—;PR
+32249;6;сыром;—џ–;S m inan ins sg;;;м;о;р;ы;с;;S;—џ–;S m inan ins sg
+32250;7;называетс€;Ќј«џ¬ј“№—я;V ipf praes sg indic - 3p;;;€;с;т;е;а;в;V;Ќј«џ¬ј“№—я;V ipf praes sg indic - 3p
+32251;8;.;.;SENT;;;;;;;;;SENT;.;SENT
+32252;;;;;;;;;;;;;;;
+32253;1;—верху;—¬≈–’”;ADV -;;;у;х;р;е;в;с;ADV;—¬≈–’”;ADV -
+32254;2;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32255;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32256;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32257;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32258;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32259;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32260;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32261;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32262;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32263;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32264;12;тока;NONLEX;NONLEX;distort;;а;к;о;т;;;S;“ќ ;S m inan gen sg
+32265;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32266;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32267;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+32268;;;;;;;;;;;;;;;
+32269;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32270;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32271;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32272;4;только;“ќЋ№ ќ;PART;;;о;к;ь;л;о;т;PART;“ќЋ№ ќ;PART
+32273;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32274;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32275;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32276;;;;;;;;;;;;;;;
+32277;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32278;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32279;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32280;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32281;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32282;;;;;;;;;;;;;;;
+32283;1;сулугуни;—”Ћ”√”Ќ»;S m inan nom sg 0;;;и;н;у;г;у;л;S;—”Ћ”√”Ќ»;S m inan nonflex nonflex
+32284;2;.;.;SENT;;;;;;;;;SENT;.;SENT
+32285;;;;;;;;;;;;;;;
+32286;1;Ќачинка;Ќј„»Ќ ј;S f inan nom sg;;;а;к;н;и;ч;а;S;Ќј„»Ќ ј;S f inan nom sg
+32287;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32288;3;а;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32289;4;начинка;Ќј„»Ќ ј;S f inan nom sg;;;а;к;н;и;ч;а;S;Ќј„»Ќ ј;S f inan nom sg
+32290;5;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32291;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32292;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32293;8;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32294;9;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32295;10;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32296;11;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32297;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32298;13;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32299;14;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32300;15;тока;NONLEX;NONLEX;distort;;а;к;о;т;;;S;“ќ ;S m inan gen sg
+32301;16;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32302;17;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32303;18;";";";";SENT;;;;;;;;;SENT;";";SENT
+32304;;;;;;;;;;;;;;;
+32305;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32306;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32307;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32308;4;только;“ќЋ№ ќ;PART;;;о;к;ь;л;о;т;PART;“ќЋ№ ќ;PART
+32309;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32310;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32311;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32312;;;;;;;;;;;;;;;
+32313;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32314;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32315;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32316;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32317;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32318;;;;;;;;;;;;;;;
+32319;1;..;..;PUNC;;;;;;;;;PUNC;..;PUNC
+32320;2;эмм;NONLEX;NONLEX;;;м;м;э;;;;S;Ёћћј;S f anim acc pl
+32321;3;Е;Е;SENT;;;;;;;;;SENT;Е;SENT
+32322;;;;;;;;;;;;;;;
+32323;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32324;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32325;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32326;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32327;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32328;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32329;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32330;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32331;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32332;10;жилток;NONLEX;NONLEX;distort;;к;о;т;л;и;ж;S;∆»Ћ“ќ ;S m inan acc sg
+32333;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32334;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32335;13;";";";";SENT;;;;;;;;;SENT;";";SENT
+32336;;;;;;;;;;;;;;;
+32337;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32338;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32339;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32340;4;желток;∆≈Ћ“ќ ;S m inan nom sg;;;к;о;т;л;е;ж;S;∆≈Ћ“ќ ;S m inan nom sg
+32341;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32342;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32343;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32344;;;;;;;;;;;;;;;
+32345;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32346;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32347;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32348;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32349;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32350;;;;;;;;;;;;;;;
+32351;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32352;2;чтобы;„“ќЅџ;CONJ;;;ы;б;о;т;ч;;CONJ;„“ќЅџ;CONJ
+32353;3;она;ќЌј;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ќЌј;SPRO sg 3p f nom
+32354;4;была;Ѕџ“№;V ipf praet sg indic f -;;;а;л;ы;б;;;V;Ѕџ“№;V ipf praet sg indic f -
+32355;5;красный; –ј—Ќџ…;A - nom sg plen m inan;;;й;ы;н;с;а;р;A; –ј—Ќџ…;A - acc sg plen m inan
+32356;6;цвет;÷¬≈“;S m inan nom sg;;;т;е;в;ц;;;S;÷¬≈“;S m inan acc sg
+32357;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32358;8;колор; ќЋќ–;S m inan acc sg;;;р;о;л;о;к;;S; ќЋќ–;S m inan gen sg
+32359;9;чтобы;„“ќЅџ;CONJ;;;ы;б;о;т;ч;;CONJ;„“ќЅџ;CONJ
+32360;10;давала;ƒј¬ј“№;V ipf praet sg indic f -;;;а;л;а;в;а;д;V;ƒј¬ј“№;V ipf praet sg indic f -
+32361;11;.;.;SENT;;;;;;;;;SENT;.;SENT
+32362;;;;;;;;;;;;;;;
+32363;1;«начит..;«Ќј„»“..;PARENTH;;;;;т;и;ч;а;ADV;«Ќј„»“..;ADV -
+32364;2;аа;NONLEX;NONLEX;;;а;а;;;;;NONLEX;јј;NONLEX
+32365;3;Е;Е;PUNC;;;;;;;;;PUNC;Е;PUNC
+32366;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32367;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32368;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32369;7;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32370;8;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32371;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32372;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32373;11;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32374;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32375;13;есь;NONLEX;NONLEX;distort;;ь;с;е;;;;S;≈—№;S f inan nonflex nonflex
+32376;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32377;15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32378;16;";";";";SENT;;;;;;;;;SENT;";";SENT
+32379;;;;;;;;;;;;;;;
+32380;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32381;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32382;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32383;4;есть;Ѕџ“№;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;Ѕџ“№;V ipf praes sg indic - 3p
+32384;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32385;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32386;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32387;;;;;;;;;;;;;;;
+32388;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32389;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32390;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32391;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32392;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32393;;;;;;;;;;;;;;;
+32394;1;ещЄ;≈ў≈;ADV -;;;Є;щ;е;;;;ADV;≈ў≈;ADV -
+32395;2;у;”;PR;;;у;;;;;;PR;”;PR
+32396;3;нас;ћџ;SPRO pl 1p - gen;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+32397;4;регион;–≈√»ќЌ;S m inan nom sg;;;н;о;и;г;е;р;S;–≈√»ќЌ;S m inan acc sg
+32398;5;имеритинский;»ћ≈–»“»Ќ— »…;A - acc sg plen m inan;;;й;и;к;с;н;и;A;»ћ≈–»“»Ќ— »…;A - acc sg plen m inan
+32399;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+32400;;;;;;;;;;;;;;;
+32401;1;“ам;“јћ;ADV -;;;м;а;т;;;;ADV;“јћ;ADV -
+32402;2;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+32403;3;имеритинский;»ћ≈–»“»Ќ— »…;S m inan nom sg;;;й;и;к;с;н;и;S;»ћ≈–»“»Ќ— »…;S m anim nom sg
+32404;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+32405;;;;;;;;;;;;;;;
+32406;1;“уда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+32407;2;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32408;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32409;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32410;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32411;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32412;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32413;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32414;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32415;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32416;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32417;12;тока;NONLEX;NONLEX;distort;;а;к;о;т;;;S;“ќ ;S m inan gen sg
+32418;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32419;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32420;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+32421;;;;;;;;;;;;;;;
+32422;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32423;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32424;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32425;4;только;“ќЋ№ ќ;PART;;;о;к;ь;л;о;т;PART;“ќЋ№ ќ;PART
+32426;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32427;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32428;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32429;;;;;;;;;;;;;;;
+32430;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32431;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32432;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32433;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32434;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32435;;;;;;;;;;;;;;;
+32436;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32437;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32438;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32439;4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32440;5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32441;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32442;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32443;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32444;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32445;10;нутри;NONLEX;NONLEX;distort;;и;р;т;у;н;;ADV;Ќ”“–»;ADV -
+32446;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32447;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32448;13;";";";";SENT;;;;;;;;;SENT;";";SENT
+32449;;;;;;;;;;;;;;;
+32450;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32451;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32452;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32453;4;внутри;¬Ќ”“–»;ADV -;;;и;р;т;у;н;в;ADV;¬Ќ”“–»;ADV -
+32454;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32455;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32456;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32457;;;;;;;;;;;;;;;
+32458;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32459;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32460;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32461;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32462;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32463;;;;;;;;;;;;;;;
+32464;1;сыр;—џ–;S m inan nom sg;;;р;ы;с;;;;S;—џ–;S m inan nom sg
+32465;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32466;3;ну;Ќ”;PART;;;у;н;;;;;PART;Ќ”;PART
+32467;4;одинарный;ќƒ»Ќј–Ќџ…;A - nom sg plen m -;;;й;ы;н;р;а;н;A;ќƒ»Ќј–Ќџ…;A - nom sg plen m -
+32468;5;сыр;—џ–;S m inan nom sg;;;р;ы;с;;;;S;—џ–;S m inan nom sg
+32469;6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32470;7;это;Ё“ќ;APRO nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+32471;8;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+32472;9;есть;Ѕџ“№;V ipf praes sg indic - 3p;;;ь;т;с;е;;;V;Ѕџ“№;V ipf praes sg indic - 3p
+32473;10;имеритинский;»ћ≈–»“»Ќ— »…;S m inan nom sg;;;й;и;к;с;н;и;S;»ћ≈–»“»Ќ— »…;S m anim nom sg
+32474;11;.;.;SENT;;;;;;;;;SENT;.;SENT
+32475;;;;;;;;;;;;;;;
+32476;1;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32477;2;аджарский;јƒ∆ј–— »…;A - nom sg plen m -;;;й;и;к;с;р;а;A;јƒ∆ј–— »…;A - nom sg plen f -
+32478;3;хачапури;’ј„јѕ”–»;S m inan sg;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S f inan nonflex nonflex
+32479;4;это;Ё“ќ;APRO nom sg;;;о;т;э;;;;S;Ё“ќ;S n - nom sg
+32480;5;из;»«;PR;;;з;и;;;;;PR;»«;PR
+32481;6;аджарии;јƒ∆ј–»я;S f inan gen sg;;;и;и;р;а;ж;д;S;јƒ∆ј–»я;S f inan loc sg
+32482;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32483;8;значит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+32484;9;Ѕатуми;Ѕј“”ћ»;S m inan 0 sg;;;и;м;у;т;а;б;S;Ѕј“”ћ»;S m inan nonflex nonflex
+32485;10;у;”;PR;;;у;;;;;;PR;”;PR
+32486;11;нас;ћџ;SPRO pl 1p - gen;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+32487;12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32488;13;регион;–≈√»ќЌ;S m inan nom sg;;;н;о;и;г;е;р;S;–≈√»ќЌ;S m inan nom sg
+32489;14;Ѕатуми;Ѕј“”ћ»;S m inan 0 sg;;;и;м;у;т;а;б;S;Ѕј“”ћ»;S m inan nonflex nonflex
+32490;15;.;.;SENT;;;;;;;;;SENT;.;SENT
+32491;;;;;;;;;;;;;;;
+32492;1;√овор€щий2;√ќ¬ќ–яў»…2;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32493;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32494;3;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32495;4;где;√ƒ≈;ADV -;;;е;д;г;;;;ADV;√ƒ≈;ADV -
+32496;5;готов€т;√ќ“ќ¬»“№;V ipf praes pl indic - 3p;;;т;€;в;о;т;о;V;√ќ“ќ¬»“№;V ipf praes pl indic - 3p
+32497;6;пеновани;ѕ≈Ќќ¬јЌ»;S m inan sg 0 ;;;и;н;а;в;о;н;S;ѕ≈Ќќ¬јЌ»;S f inan nonflex nonflex
+32498;7;?;?;SENT;;;;;;;;;SENT;?;SENT
+32499;;;;;;;;;;;;;;;
+32500;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32501;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32502;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32503;4;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+32504;5;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+32505;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32506;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32507;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32508;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32509;10;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+32510;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32511;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32512;13;";";";";SENT;;;;;;;;;SENT;";";SENT
+32513;;;;;;;;;;;;;;;
+32514;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32515;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32516;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+32517;;;;;;;;;;;;;;;
+32518;1;√овор€т;√ќ¬ќ–»“№;V ipf praes pl indic - 3p;;;т;€;р;о;в;о;V;√ќ¬ќ–»“№;V ipf praes pl indic - 3p
+32519;2;одновременно;ќƒЌќ¬–≈ћ≈ЌЌќ;ADV -;;;о;н;н;е;м;е;ADV;ќƒЌќ¬–≈ћ≈ЌЌќ;ADV -
+32520;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32521;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32522;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32523;;;;;;;;;;;;;;;
+32524;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32525;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+32526;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32527;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32528;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32529;;;;;;;;;;;;;;;
+32530;1;√овор€щий1;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32531;2;:;:;PUNC;;;;;;;;;PUNC;:;PUNC
+32532;3;Ѕатумский;Ѕј“”ћ— »…;A - nom sg plen m -;;;й;и;к;с;м;у;A;Ѕј“”ћ— »…;A - gen sg plen m -
+32533;4;..;..;SENT;;;;;;;;;SENT;..;SENT
+32534;;;;;;;;;;;;;;;
+32535;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32536;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32537;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32538;4;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+32539;5;class;CLASS;NONLEX;;;;;;;;;NONLEX;CLASS;NONLEX
+32540;6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32541;7;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32542;8;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32543;9;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32544;10;note;NOTE;NONLEX;;;;;;;;;NONLEX;NOTE;NONLEX
+32545;11;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32546;12;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32547;13;";";";";SENT;;;;;;;;;SENT;";";SENT
+32548;;;;;;;;;;;;;;;
+32549;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32550;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32551;3;";";";";SENT;;;;;;;;;SENT;";";SENT
+32552;;;;;;;;;;;;;;;
+32553;1;√овор€т;√ќ¬ќ–»“№;V ipf praes pl indic - 3p;;;т;€;р;о;в;о;V;√ќ¬ќ–»“№;V ipf praes pl indic - 3p
+32554;2;одновременно;ќƒЌќ¬–≈ћ≈ЌЌќ;ADV -;;;о;н;н;е;м;е;ADV;ќƒЌќ¬–≈ћ≈ЌЌќ;ADV -
+32555;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32556;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32557;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32558;;;;;;;;;;;;;;;
+32559;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32560;2;span;SPAN;NONLEX;;;;;;;;;NONLEX;SPAN;NONLEX
+32561;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32562;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32563;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32564;;;;;;;;;;;;;;;
+32565;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32566;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32567;3;ѕеновани;ѕ≈Ќќ¬јЌ»;S m inan sg 0;;;и;н;а;в;о;н;S;ѕ≈Ќќ¬јЌ»;S m anim nonflex nonflex
+32568;4;это;Ё“ќ;APRO m sg nom;;;о;т;э;;;;S;Ё“ќ;S n - acc sg
+32569;5;Е..;Е..;PUNC;;;;;;;;;PUNC;Е..;PUNC
+32570;6;слоЄн;NONLEX;NONLEX;distort;;н;Є;о;л;с;;A;—Ћќ≈Ќџ…;A - gen sg plen m -
+32571;7;Е;Е;PUNC;;;;;;;;;PUNC;Е;PUNC
+32572;8;из;»«;PR;;;з;и;;;;;PR;»«;PR
+32573;9;слоЄного;—Ћќ≈Ќџ…;A - gen sg plen n -;;;о;г;о;н;Є;о;A;—Ћќ≈Ќџ…;A - gen sg plen m -
+32574;10;теста;“≈—“ќ;S n inan gen sg;;;а;т;с;е;т;;S;“≈—“ќ;S m inan gen sg
+32575;11;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+32576;12;пеновани;ѕ≈Ќќ¬јЌ»;S m inan sg 0;;;и;н;а;в;о;н;S;ѕ≈Ќќ¬јЌ»;S f inan nonflex nonflex
+32577;13;.;.;SENT;;;;;;;;;SENT;.;SENT
+32578;;;;;;;;;;;;;;;
+32579;1;√овор€щий2;√ќ¬ќ–яў»…2;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32580;2;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32581;3;он;ќЌ;SPRO sg 3p m nom;;;н;о;;;;;SPRO;ќЌ;SPRO sg 3p m nom
+32582;4;какому-нибудь; ј ќ…-Ќ»Ѕ”ƒ№;APRO dat sg m ;;;ь;д;у;б;и;н;A; ј ќ…-Ќ»Ѕ”ƒ№;A - dat sg plen m -
+32583;5;региону;–≈√»ќЌ;S m inan dat sg;;;у;н;о;и;г;е;S;–≈√»ќЌ;S m inan dat sg
+32584;6;принадлежит;ѕ–»ЌјƒЋ≈∆ј“№;V ipf praes sg indic - 3p;;;т;и;ж;е;л;д;V;ѕ–»ЌјƒЋ≈∆ј“№;V ipf praes sg indic - 3p
+32585;7;?;?;SENT;;;;;;;;;SENT;?;SENT
+32586;;;;;;;;;;;;;;;
+32587;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32588;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32589;3; ак; ј ;ADV -;;;к;а;к;;;;ADV; ј ;ADV -
+32590;4;?;?;SENT;;;;;;;;;SENT;?;SENT
+32591;;;;;;;;;;;;;;;
+32592;1;√овор€щий2;√ќ¬ќ–яў»…2;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32593;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32594;3; ; ;PR;;;к;;;;;;PR; ;PR
+32595;4;какому-нибудь; ј ќ…-Ќ»Ѕ”ƒ№;APRO dat sg m ;;;ь;д;у;б;и;н;A; ј ќ…-Ќ»Ѕ”ƒ№;A - dat sg plen m -
+32596;5;региону;–≈√»ќЌ;S m inan dat sg;;;у;н;о;и;г;е;S;–≈√»ќЌ;S m inan dat sg
+32597;6;принадлежит;ѕ–»ЌјƒЋ≈∆ј“№;V ipf praes sg indic - 3p;;;т;и;ж;е;л;д;V;ѕ–»ЌјƒЋ≈∆ј“№;V ipf praes sg indic - 3p
+32598;7;?;?;SENT;;;;;;;;;SENT;?;SENT
+32599;;;;;;;;;;;;;;;
+32600;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32601;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32602;3;Ќет;Ќ≈“;PART;;;т;е;н;;;;PART;Ќ≈“;PART
+32603;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32604;5;пеновани;ѕ≈Ќќ¬јЌ»;S m inan sg 0;;;и;н;а;в;о;н;S;ѕ≈Ќќ¬јЌ»;S f inan nonflex nonflex
+32605;6;нет;Ќ≈“;PART;;;т;е;н;;;;PART;Ќ≈“;PART
+32606;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32607;8;пеновани;ѕ≈Ќќ¬јЌ»;S m inan sg 0;;;и;н;а;в;о;н;S;ѕ≈Ќќ¬јЌ»;S m inan nonflex nonflex
+32608;9;нет;Ќ≈“;PART;;;т;е;н;;;;PART;Ќ≈“;PART
+32609;10;Е;Е;SENT;;;;;;;;;SENT;Е;SENT
+32610;;;;;;;;;;;;;;;
+32611;1;√овор€щий2;√ќ¬ќ–яў»…2;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32612;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32613;3;¬езде;¬≈«ƒ≈;ADV -;;;е;д;з;е;в;;ADV;¬≈«ƒ≈;ADV -
+32614;4;готов€т;√ќ“ќ¬»“№;V ipf praes pl indic - 3p;;;т;€;в;о;т;о;V;√ќ“ќ¬»“№;V ipf praes pl indic - 3p
+32615;5;?;?;SENT;;;;;;;;;SENT;?;SENT
+32616;;;;;;;;;;;;;;;
+32617;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32618;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32619;3;ƒа;ƒј;PART;;;а;д;;;;;CONJ;ƒј;CONJ
+32620;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32621;5;имеритинский;»ћ≈–»“»Ќ— »…;S m inan nom sg;;;й;и;к;с;н;и;S;»ћ≈–»“»Ќ— »…;S m anim nom sg
+32622;6;вот;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+32623;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32624;8;мегрельский;ћ≈√–≈Ћ№— »…;S m inan nom sg;;;й;и;к;с;ь;л;A;ћ≈√–≈Ћ№— »…;A - acc sg plen m inan
+32625;9;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+32626;10;аджарский;јƒ∆ј–— »…;S m inan nom sg;;;й;и;к;с;р;а;A;јƒ∆ј–— »…;A - acc sg plen m inan
+32627;11;у;”;PR;;;у;;;;;;PR;”;PR
+32628;12;нас;ћџ;SPRO pl 1p - gen;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+32629;13;вот;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+32630;14;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+32631;15;.;.;SENT;;;;;;;;;SENT;.;SENT
+32632;;;;;;;;;;;;;;;
+32633;1;ќстальные;ќ—“јЋ№Ќќ…;A - nom pl plen - -;;;е;ы;н;ь;л;а;A;ќ—“јЋ№Ќќ…;A - nom pl plen - -
+32634;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32635;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32636;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32637;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32638;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32639;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32640;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32641;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32642;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32643;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32644;12;чЄищо;NONLEX;NONLEX;distort;;о;щ;и;Є;ч;;ADV;„≈»ўќ;ADV -
+32645;13;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32646;14;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32647;15;";";";";SENT;;;;;;;;;SENT;";";SENT
+32648;;;;;;;;;;;;;;;
+32649;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32650;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32651;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32652;4;что;„“ќ;CONJ;;;о;т;ч;;;;CONJ;„“ќ;CONJ
+32653;5;еще;≈ў≈;ADV -;;;е;щ;е;;;;ADV;≈ў≈;ADV -
+32654;6;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32655;7;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32656;8;";";";";SENT;;;;;;;;;SENT;";";SENT
+32657;;;;;;;;;;;;;;;
+32658;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32659;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32660;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32661;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32662;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32663;;;;;;;;;;;;;;;
+32664;1;Е..;Е..;PUNC;;;;;;;;;PUNC;Е..;PUNC
+32665;2;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32666;3;кубдари; ”Ѕƒј–»;S m inan sg 0;;;и;р;а;д;б;у;S; ”Ѕƒј–»;S m inan nonflex nonflex
+32667;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32668;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32669;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32670;7;noindex;NOINDEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX
+32671;8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32672;9;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32673;10;";";";";SENT;;;;;;;;;SENT;";";SENT
+32674;;;;;;;;;;;;;;;
+32675;1;[;[;PUNC;;;;;;;;;PUNC;[;PUNC
+32676;2;нрзб;NONLEX;NONLEX;;;б;з;р;н;;;NONLEX;Ќ–«Ѕ;NONLEX
+32677;3;];];PUNC;;;;;;;;;PUNC;];PUNC
+32678;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32679;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32680;6;";";";";SENT;;;;;;;;;SENT;";";SENT
+32681;;;;;;;;;;;;;;;
+32682;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32683;2;noindex;NONLEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX
+32684;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32685;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32686;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32687;;;;;;;;;;;;;;;
+32688;1;с;—;PR;;;с;;;;;;PR;—;PR
+32689;2;м€сом;ћя—ќ;S n inan ins sg;;;м;о;с;€;м;;S;ћя—ќ;S n inan ins sg
+32690;3;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32691;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32692;5;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32693;6;с;—;PR;;;с;;;;;;PR;—;PR
+32694;7;сыром;—џ–;S m inan ins sg;;;м;о;р;ы;с;;S;—џ–;S m inan ins sg
+32695;8;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32696;9;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32697;10;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32698;11;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32699;12;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32700;13;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32701;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32702;15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32703;16;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32704;17;зэленью;NONLEX;NONLEX;distort;;ю;ь;н;е;л;э;S;«ЁЋ≈Ќ№;S m anim gen sg
+32705;18;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32706;19;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32707;20;";";";";SENT;;;;;;;;;SENT;";";SENT
+32708;;;;;;;;;;;;;;;
+32709;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32710;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32711;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32712;4;зеленью;«≈Ћ≈Ќ№;S f inan ins sg;;;ю;ь;н;е;л;е;S;«≈Ћ≈Ќ№;S f inan ins sg
+32713;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32714;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32715;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32716;;;;;;;;;;;;;;;
+32717;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32718;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32719;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32720;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32721;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32722;6;ещЄ;≈ў≈;ADV -;;;Є;щ;е;;;;ADV;≈ў≈;ADV -
+32723;7;у;”;PR;;;у;;;;;;PR;”;PR
+32724;8;нас;ћџ;SPRO pl 1p - gen;;;с;а;н;;;;SPRO;ћџ;SPRO pl 1p - loc
+32725;9;хачапури;’ј„јѕ”–»;S m sg  0  inan;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+32726;10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32727;11;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+32728;12;идет;»ƒ“»;V ipf praes sg indic - 3p;;;т;е;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32729;13;четыре;„≈“џ–≈;NUM nom - -;;;е;р;ы;т;е;ч;NUM;„≈“џ–≈;NUM nom - -
+32730;14;вида;¬»ƒ;S m inan gen sg;;;а;д;и;в;;;S;¬»ƒ;S m inan gen sg
+32731;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32732;16;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32733;17;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32734;18;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32735;19;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32736;20;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32737;21;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32738;22;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32739;23;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32740;24;зэлень;NONLEX;NONLEX;;;ь;н;е;л;э;з;ADV;«ЁЋ≈Ќ№;ADV -
+32741;25;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32742;26;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32743;27;";";";";SENT;;;;;;;;;SENT;";";SENT
+32744;;;;;;;;;;;;;;;
+32745;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32746;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32747;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32748;4;зелень;«≈Ћ≈Ќ№;S f inan nom sg;;;ь;н;е;л;е;з;S;«≈Ћ≈Ќ№;S f inan nom sg
+32749;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32750;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32751;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32752;;;;;;;;;;;;;;;
+32753;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32754;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32755;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32756;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32757;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32758;;;;;;;;;;;;;;;
+32759;1;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+32760;2;сыр;—џ–;S m inan nom sg;;;р;ы;с;;;;S;—џ–;S m inan nom sg
+32761;3;.;.;SENT;;;;;;;;;SENT;.;SENT
+32762;;;;;;;;;;;;;;;
+32763;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32764;2;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32765;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32766;4;noindex;NOINDEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX
+32767;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32768;6;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32769;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32770;;;;;;;;;;;;;;;
+32771;1;[;[;PUNC;;;;;;;;;PUNC;[;PUNC
+32772;2;нрзб;NONLEX;NONLEX;;;б;з;р;н;;;NONLEX;Ќ–«Ѕ;NONLEX
+32773;3;];];PUNC;;;;;;;;;PUNC;];PUNC
+32774;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32775;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32776;6;";";";";SENT;;;;;;;;;SENT;";";SENT
+32777;;;;;;;;;;;;;;;
+32778;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32779;2;noindex;NOINDEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX
+32780;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32781;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32782;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32783;;;;;;;;;;;;;;;
+32784;1;√овор€щий2;√ќ¬ќ–яў»…2;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32785;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32786;3;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32787;4;как; ј ;CONJ;;;к;а;к;;;;CONJ; ј ;CONJ
+32788;5;хачапури;’ј„јѕ”–»;S m sg 0 inan;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+32789;6;с;—;PR;;;с;;;;;;PR;—;PR
+32790;7;м€сом;ћя—ќ;S m inan ins sg;;;м;о;с;€;м;;S;ћя—ќ;S n inan ins sg
+32791;8;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+32792;9;?;?;SENT;;;;;;;;;SENT;?;SENT
+32793;;;;;;;;;;;;;;;
+32794;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32795;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32796;3;’ачапури;’ј„јѕ”–»;S m sg 0 inan;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+32797;4;с;—;PR;;;с;;;;;;PR;—;PR
+32798;5;м€сом;ћя—ќ;S n inan ins sg;;;м;о;с;€;м;;S;ћя—ќ;S n inan ins sg
+32799;6;как; ј ;CONJ;;;к;а;к;;;;CONJ; ј ;CONJ
+32800;7;готовитс€;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p;;;€;с;т;и;в;о;V;√ќ“ќ¬»“№—я;V ipf praes sg indic - 3p
+32801;8;?;?;SENT;;;;;;;;;SENT;?;SENT
+32802;;;;;;;;;;;;;;;
+32803;1;«начит;«Ќј„»“;PARENTH;;;т;и;ч;а;н;з;ADV;«Ќј„»“;ADV -
+32804;2;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+32805;3;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32806;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32807;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32808;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32809;7;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32810;8;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32811;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32812;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32813;11;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32814;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32815;13;гавиадина;NONLEX;NONLEX;distort;;а;н;и;д;а;и;S;√ј¬»јƒ»Ќј;S f anim nom sg
+32816;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32817;15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32818;16;";";";";SENT;;;;;;;;;SENT;";";SENT
+32819;;;;;;;;;;;;;;;
+32820;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32821;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32822;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32823;4;гов€дина;√ќ¬яƒ»Ќј;S f inan nom sg;;;а;н;и;д;€;в;S;√ќ¬яƒ»Ќј;S f inan nom sg
+32824;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32825;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32826;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32827;;;;;;;;;;;;;;;
+32828;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32829;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32830;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32831;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32832;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32833;;;;;;;;;;;;;;;
+32834;1;ииии;NONLEX;NONLEX;distort;;и;и;и;и;;;S;»»»»;S m inan gen sg
+32835;2;свинина;—¬»Ќ»Ќј;S f inan nom sg;;;а;н;и;н;и;в;S;—¬»Ќ»Ќј;S f inan nom sg
+32836;3;туда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+32837;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32838;5;шейка;Ў≈… ј;S f inan nom sg;;;а;к;й;е;ш;;S;Ў≈… ј;S f inan nom sg
+32839;6;именно;»ћ≈ЌЌќ;PART;;;о;н;н;е;м;и;PART;»ћ≈ЌЌќ;PART
+32840;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32841;8;шейка;Ў≈… ј;S f inan nom sg;;;а;к;й;е;ш;;S;Ў≈… ј;S f inan nom sg
+32842;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+32843;;;;;;;;;;;;;;;
+32844;1;√овор€щий2;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32845;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32846;3;’орошо;’ќ–ќЎќ;PART;;;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+32847;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+32848;;;;;;;;;;;;;;;
+32849;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32850;2;“уда;“”ƒј;ADV -;;;а;д;у;т;;;ADV;“”ƒј;ADV -
+32851;3;идЄт;»ƒ“»;V ipf praes sg indic - 3p;;;т;Є;д;и;;;V;»ƒ“»;V ipf praes sg indic - 3p
+32852;4;кубдари; ”Ѕƒј–»;S m inan sg 0;;;и;р;а;д;б;у;S; ”Ѕƒј–»;S m inan nonflex nonflex
+32853;5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32854;6;хмели;NONLEX;NONLEX;слитно;;и;л;е;м;х;;S;’ћ≈Ћ№;S f inan nom sg
+32855;7;сунелиииии;NONLEX;NONLEX;слитно;;и;и;и;и;и;л;S;—”Ќ≈Ћ»»»»»;S - inan acc pl
+32856;8;Е;Е;PUNC;;;;;;;;;PUNC;Е;PUNC
+32857;9;наши;ЌјЎ;APRO - nom pl  - -;;;и;ш;а;н;;;A;ЌјЎ;A - nom pl plen - -
+32858;10;вот;¬ќ“;PART;;;т;о;в;;;;PART;¬ќ“;PART
+32859;11;эти;Ё“ќ“;APRO -  pl  nom ;;;и;т;э;;;;A;Ё“ќ“;A - acc pl plen - inan
+32860;12;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32861;13;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32862;14;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32863;15;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32864;16;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32865;17;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32866;18;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32867;19;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32868;20;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32869;21;приправи;NONLEX;NONLEX;distort;;и;в;а;р;п;и;V;ѕ–»ѕ–ј¬»“№;V pf - sg imper - 2p
+32870;22;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32871;23;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32872;24;";";";";SENT;;;;;;;;;SENT;";";SENT
+32873;;;;;;;;;;;;;;;
+32874;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32875;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32876;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32877;4;приправы;ѕ–»ѕ–ј¬ј;S f inan nom pl;;;ы;в;а;р;п;и;S;ѕ–»ѕ–ј¬ј;S f inan nom pl
+32878;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32879;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32880;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32881;;;;;;;;;;;;;;;
+32882;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32883;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32884;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32885;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32886;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32887;;;;;;;;;;;;;;;
+32888;1;вс€кие;¬—я »…;A - nom pl plen - -;;;е;и;к;€;с;в;A;¬—я »…;A - nom pl plen - -
+32889;2;и;»;CONJ;;;и;;;;;;CONJ;»;CONJ
+32890;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32891;4;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32892;5;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32893;6;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32894;7;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32895;8;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32896;9;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32897;10;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32898;11;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32899;12;чуть;NONLEX;NONLEX;слитно;;ь;т;у;ч;;;ADV;„”“№;ADV -
+32900;13;-;-;PUNC;;;;;;;;;PUNC;-;PUNC
+32901;14;чут;NONLEX;NONLEX;слитно, distort;;т;у;ч;;;;S;„”“;S m inan acc sg
+32902;15;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32903;16;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32904;17;";";";";SENT;;;;;;;;;SENT;";";SENT
+32905;;;;;;;;;;;;;;;
+32906;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32907;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32908;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32909;4;чуть-чуть;„”“№-„”“№;ADV -;;;ь;т;у;ч;;ь;ADV;„”“№-„”“№;ADV -
+32910;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32911;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32912;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32913;;;;;;;;;;;;;;;
+32914;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32915;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32916;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32917;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32918;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32919;;;;;;;;;;;;;;;
+32920;1;кинза; »Ќ«ј;S f inan nom sg;;;а;з;н;и;к;;S; »Ќ«ј;S f inan nom sg
+32921;2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32922;3;свежа€;—¬≈∆»…;A - nom sg plen f -;;;€;а;ж;е;в;с;A;—¬≈∆»…;A - nom sg plen f -
+32923;4;кинза; »Ќ«ј;S f inan nom sg;;;а;з;н;и;к;;S; »Ќ«ј;S f inan nom sg
+32924;5;.;.;SENT;;;;;;;;;SENT;.;SENT
+32925;;;;;;;;;;;;;;;
+32926;1;√овор€щий2;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+32927;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32928;3;’орошо;’ќ–ќЎќ;PART;;;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+32929;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32930;5;хорошо;’ќ–ќЎќ;PART;;;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+32931;6;.;.;SENT;;;;;;;;;SENT;.;SENT
+32932;;;;;;;;;;;;;;;
+32933;1;јааа;NONLEX;NONLEX;distort;;а;а;а;а;;;S;јјјј;S m anim nonflex nonflex
+32934;2;вы;¬џ;SPRO pl 2p - nom;;;ы;в;;;;;SPRO;¬џ;SPRO pl 2p - nom
+32935;3;сами;—јћ;SPRO - nom pl plen - -;;;и;м;а;с;;;A;—јћ;A - nom pl plen - -
+32936;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32937;5;из;»«;PR;;;з;и;;;;;PR;»«;PR
+32938;6;какого; ј ќ…;APRO - gen sg plen m -;;;о;г;о;к;а;к;A; ј ќ…;A - gen sg plen m -
+32939;7;региона;–≈√»ќЌ;S m inan gen sg;;;а;н;о;и;г;е;S;–≈√»ќЌ;S m inan gen sg
+32940;8;?;?;SENT;;;;;;;;;SENT;?;SENT
+32941;;;;;;;;;;;;;;;
+32942;1;√овор€щий1;√ќ¬ќ–яў»…1;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+32943;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+32944;3;я;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+32945;4;сама;—јћ;APRO - nom sg plen f -;;;а;м;а;с;;;A;—јћ;A - nom sg plen f -
+32946;5;с;—;PR;;;с;;;;;;PR;—;PR
+32947;6;√рузии;√–”«»я;S f inan gen sg;;;и;и;з;у;р;г;S;√–”«»я;S f inan loc sg
+32948;7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32949;8;конечно; ќЌ≈„Ќќ;PARENTH;;;о;н;ч;е;н;о;ADV; ќЌ≈„Ќќ;ADV -
+32950;9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32951;10;раньше;–јЌќ;ADV comp;;;е;ш;ь;н;а;р;ADV;–јЌќ;ADV comp
+32952;11;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+32953;12;жила;∆»“№;V ipf praet sg indic f -;;;а;л;и;ж;;;V;∆»“№;V ipf praet sg indic f -
+32954;13;в;¬;PR;;;в;;;;;;PR;¬;PR
+32955;14;—ухуми;—”’”ћ»;S m inan 0 sg;;;и;м;у;х;у;с;S;—”’”ћ»;S m inan nonflex nonflex
+32956;15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32957;16;а;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+32958;17;после;ѕќ—Ћ≈;PR;;;е;л;с;о;п;;PR;ѕќ—Ћ≈;PR
+32959;18;войны;¬ќ…Ќј;S f inan gen sg;;;ы;н;й;о;в;;S;¬ќ…Ќј;S f inan gen sg
+32960;19;конечно; ќЌ≈„Ќќ;PARENTH;;;о;н;ч;е;н;о;ADV; ќЌ≈„Ќќ;ADV -
+32961;20;здесь;«ƒ≈—№;ADV -;;;ь;с;е;д;з;;ADV;«ƒ≈—№;ADV -
+32962;21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32963;22;в;¬;PR;;;в;;;;;;PR;¬;PR
+32964;23;ћоскве;ћќ— ¬ј;S f inan loc sg;;;е;в;к;с;о;м;S;ћќ— ¬ј;S f inan loc sg
+32965;24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32966;25;пока;ѕќ ј;CONJ;;;а;к;о;п;;;ADV;ѕќ ј;ADV -
+32967;26;“ан€;“јЌя;S f anim nom sg persn;;;€;н;а;т;;;S;“јЌя;S f anim nom sg
+32968;27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32969;28;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32970;29;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32971;30;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32972;31;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32973;32;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+32974;33;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+32975;34;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32976;35;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32977;36;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32978;37;мами;NONLEX;NONLEX;distort;;и;м;а;м;;;S;ћјћ»;S f anim nonflex nonflex
+32979;38;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32980;39;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+32981;40;";";";";SENT;;;;;;;;;SENT;";";SENT
+32982;;;;;;;;;;;;;;;
+32983;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32984;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32985;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+32986;4;мама;ћјћј;S f anim nom sg;;;а;м;а;м;;;S;ћјћј;S f anim nom sg
+32987;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32988;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+32989;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+32990;;;;;;;;;;;;;;;
+32991;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+32992;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+32993;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+32994;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+32995;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+32996;;;;;;;;;;;;;;;
+32997;1;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+32998;2;в;¬;PR;;;в;;;;;;PR;¬;PR
+32999;3;ћоскве;ћќ— ¬ј;S f inan loc sg;;;е;в;к;с;о;м;S;ћќ— ¬ј;S f inan loc sg
+33000;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+33001;5;а;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+33002;6;так;“ј ;ADV -;;;к;а;т;;;;ADV;“ј ;ADV -
+33003;7;в;¬;PR;;;в;;;;;;PR;¬;PR
+33004;8;“билиси;“Ѕ»Ћ»—»;S m inan sg 0;;;и;с;и;л;и;б;S;“Ѕ»Ћ»—»;S m inan nonflex nonflex
+33005;9;.;.;SENT;;;;;;;;;SENT;.;SENT
+33006;;;;;;;;;;;;;;;
+33007;1;√овор€щий2;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+33008;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+33009;3;јга;ј√ј;PART;;;а;г;а;;;;INTJ;ј√ј;INTJ
+33010;4;.;.;SENT;;;;;;;;;SENT;.;SENT
+33011;;;;;;;;;;;;;;;
+33012;1;’орошо;’ќ–ќЎќ;PART;;;о;ш;о;р;о;х;ADV;’ќ–ќЎќ;ADV -
+33013;2;.;.;SENT;;;;;;;;;SENT;.;SENT
+33014;;;;;;;;;;;;;;;
+33015;1;ј;ј;CONJ;;;а;;;;;;CONJ;ј;CONJ
+33016;2;какой; ј ќ…;APRO - nom sg plen m -;;;й;о;к;а;к;;A; ј ќ…;A - nom sg plen m -
+33017;3;вы;¬џ;SPRO pl 2p - nom;;;ы;в;;;;;SPRO;¬џ;SPRO pl 2p - nom
+33018;4;сами;—јћ;APRO - nom pl plen - -;;;и;м;а;с;;;A;—јћ;A - nom pl plen - -
+33019;5;больше;ћЌќ√ќ;ADV - COMP;;;е;ш;ь;л;о;б;ADV;ЅќЋ№Ў≈;ADV -
+33020;6;всего;¬≈—№;APRO gen sg;;;о;г;е;с;в;;S;¬—≈;S n - gen sg
+33021;7;любите;ЋёЅ»“№;V ipf praes pl indic - 2p;;;е;т;и;б;ю;л;V;ЋёЅ»“№;V ipf praes pl indic - 2p
+33022;8;хачапури;’ј„јѕ”–»;S m inan 0 sg;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+33023;9;?;?;SENT;;;;;;;;;SENT;?;SENT
+33024;;;;;;;;;;;;;;;
+33025;1;√овор€щий1;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…1;NONLEX
+33026;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+33027;3;’ачапури;’ј„јѕ”–»;S m inan 0 sg;;;и;р;у;п;а;ч;S;’ј„јѕ”–»;S n inan nonflex nonflex
+33028;4;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33029;5;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+33030;6;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+33031;7;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+33032;8;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX
+33033;9;=;=;PUNC;;;;;;;;;PUNC;=;PUNC
+33034;10;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33035;11;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+33036;12;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+33037;13;сами;NONLEX;NONLEX;distort;;и;м;а;с;;;A;—јћ;A - nom pl plen - -
+33038;14;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33039;15;quot;QUOT;NONLEX;;;;;;;;;NONLEX;QUOT;NONLEX
+33040;16;";";";";SENT;;;;;;;;;SENT;";";SENT
+33041;;;;;;;;;;;;;;;
+33042;1;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33043;2;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+33044;3;";";";";PUNC;;;;;;;;;PUNC;";";PUNC
+33045;4;самый;—јћџ…;APRO - nom sg plen m -;;;й;ы;м;а;с;;A;—јћџ…;A - nom sg plen m -
+33046;5;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33047;6;lt;LT;NONLEX;;;;;;;;;NONLEX;LT;NONLEX
+33048;7;";";";";SENT;;;;;;;;;SENT;";";SENT
+33049;;;;;;;;;;;;;;;
+33050;1;/;/;PUNC;;;;;;;;;PUNC;/;PUNC
+33051;2;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX
+33052;3;&;&;PUNC;;;;;;;;;PUNC;&;PUNC
+33053;4;gt;GT;NONLEX;;;;;;;;;NONLEX;GT;NONLEX
+33054;5;";";";";SENT;;;;;;;;;SENT;";";SENT
+33055;;;;;;;;;;;;;;;
+33056;1;больше;ћЌќ√ќ;ADV comp;;;е;ш;ь;л;о;б;ADV;ћЌќ√ќ;ADV comp
+33057;2;€;я;SPRO sg 1p - nom;;;€;;;;;;SPRO;я;SPRO sg 1p - nom
+33058;3;люблю;ЋёЅ»“№;V ipf praes sg indic - 1p;;;ю;л;б;ю;л;;V;ЋёЅ»“№;V ipf praes sg indic - 1p
+33059;4;мегрельский;ћ≈√–≈Ћ№— »…;S m inan nom sg;;;й;и;к;с;ь;л;A;ћ≈√–≈Ћ№— »…;A - acc sg plen m inan
+33060;5;.;.;SENT;;;;;;;;;SENT;.;SENT
+33061;;;;;;;;;;;;;;;
+33062;1;√овор€щий2;NONLEX;NONLEX;;;;й;и;щ;€;р;NONLEX;√ќ¬ќ–яў»…2;NONLEX
+33063;2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC
+33064;3;¬се;¬≈—№;PRAEDICPRO ;;;е;с;в;;;;S;¬—≈;S - - nom pl
+33065;4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC
+33066;5;спасибо;—ѕј—»Ѕќ;INTJ;;;о;б;и;с;а;п;S;—ѕј—»Ѕќ;S n inan nonflex nonflex
+33067;6;большое;ЅќЋ№Ўќ…;A - nom sg plen n -;;;е;о;ш;ь;л;о;A;ЅќЋ№Ўќ…;A - nom sg plen n -
+33068;7;!;!;SENT;;;;;;;;;SENT;!;SENT
