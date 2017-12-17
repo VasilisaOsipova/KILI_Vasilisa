@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-17T15:09:36+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:07a92113-1875-42ed-8eed-1395f900b071</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">51</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="15460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="15460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="24310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="25790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="30360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="30380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="38530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="38930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="40820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="40840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="48800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="48810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="49810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="49830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="71470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="74750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="77330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="77800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="78480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="78690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="81270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="81700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="84010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="84200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="84970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="85560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="91220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="91230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="96480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="96490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="98150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="98150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="100990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="103520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="103530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="108010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="108010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="108970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="108970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="109450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="109460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="111980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="111990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="114750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="114760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="121370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="121370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="127100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="130810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="132000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="132700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="135880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="138300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="138930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="139450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="141950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="141950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="147730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="147750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="148870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="149790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="161680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="164980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="166970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="166970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="174220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="174230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="174660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="175380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="182990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="184030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="184980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="184980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="187140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="188650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="199240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="200170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="200970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="201000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="203010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="203400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="206260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="206980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="208760"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Говорящий1@">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Так у нас в Грузии готовится по-аджарски хачапури, да?Значит, тесто берётся двестиграммовый, ну это считается большой, туда идёт стаотридцатьграммовый...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>сто тридцать грамм сыр и к концу там идёт яйца и масло, сливочное масло.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Так, сыр готовится так: туда идёт сулугуни и имеретинский.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Там третий часть имеритинский и больше сулугуни, это называется микс-сыр, да.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>А как тесто готовится?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Тесто готовится, значит на килограмм муки идёт десять грамм дрож, двадцать грамм соли туда идёт.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>э..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>пятьсот грамм вода,пятьсот грамм молоко, двести грамм – вода иии семьдесят грамм сливочного масла туда идёт. Готовится на килограмм, килограмм муки, значит всего выходит два килограмма теста, с этого  выходит десять  двестиграммовых   аджарских хачапури.  Не знает, что сказать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Значит мегрельский...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>У нас по регионам, да?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Естьзападная Грузия, это и есть Мегрелия...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ааа</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>А мегрельский хачапури делается в западной Грузии Мегрелия, Самегрело это называется.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Значит туда идёт внутри и сверху: двойной с сыром называется.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Сверху идёт только сулугуни.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>начинка, а начинка идёт только...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>эмм...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>желток, чтобы она была красный цвет, колор чтобы давала.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Значит..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>аа...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>есть ещё у нас регион имеритинский.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Там готовится имеритинский. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>Туда идёт только внутри сыр, ну одинарный сыр, это и есть имеритинский.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>А аджарский хачапури это из аджарии, значит Батуми у нас, регион Батуми. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Пеновани это...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>слоён…из слоёного теста готовится пеновани.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Как?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Нет, пеновани нет, пеновани нет…</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>Да, имеритинский вот, мегрельский и аджарский у нас вот так.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Остальные, что еще..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>идёт кубдари, с мясом идёт, идёт с сыром зеленьюещё у нас хачапури, туда идет четыре вида зелень и сыр</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>Хачапури с мясом как готовится?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Значит туда идёт говядина  ииии свинина туда, шейка именно, шейка.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>Туда идёт кубдари, хмели сунелиииии… наши вот эти приправы всякие и чуть-чуть кинза, свежая кинза.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Я сама с Грузии, конечно, раньше я жила в Сухуми, а после войны конечно здесь, в Москве, пока Таня, мама, в Москве, а так в Тбилиси.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Хачапури самый больше я люблю мегрельский.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="default" TIER_ID="Говорящий2@">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Давайте ещё какой-нибудь, имеритинский?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Хорошо.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>Хорошо, хорошо.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>Аааа вы сами, из какого региона?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Хорошо.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>А какой вы сами больше всего любите хачапури?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>Все, спасибо большое!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="EN" LANGUAGE_CODE="us"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
